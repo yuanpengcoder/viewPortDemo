@@ -9,3 +9,7 @@
     跨平台
         pc/手机/ipad
     基于webkit内核
+#开发类型
+    Native app原生app  灵活性不足
+    web app 成本较低，性较低，但灵活性高
+    Hybrid app（混合app） 原生语言写一个容器，webapp写了界面和交互
